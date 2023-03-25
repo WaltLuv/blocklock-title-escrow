@@ -1,0 +1,62 @@
+{
+    "name": "Amazing Home By The Beach",
+    "address": "501 Brickell Key Dr STE 400, Miami, FL 33131",
+    "description": "Luxury Home located in the heart of Miami",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUhhNmzFHxpPgMTzTGccPSo9zgbjoUj8PY6Tbn4d2t18X/1.jpeg",
+    "state":"Miami",
+    "lat": "25.7664324",
+    "long": "-80.185764",
+    "VirtualRealEstateTourURL": "https://www.example.com/123-main-street/tour.html",
+    "VideoURL": "https://www.example.com/123-main-street/video.mp4",
+    "inspection": "https://gateway.pinata.cloud/ipfs/QmcGi7bQA5BBhgh9ykxrnLkxiwp8L1GAXBfj8LXpxMc8KE",
+    "appraisal": "https://gateway.pinata.cloud/ipfs/QmSJt3jjaDV9XAZ5vo7my2JNgvHd539VNjgH1Wf4bQu3nk",
+    "deed": "https://www.example.com/123-main-street/deed.pdf",
+    "title": "https://www.example.com/123-main-street/title.pdf",
+    "titleReport": "https://www.example.com/123-main-street/titleRepot.pdf",
+    "agent": {
+        "image": "Agent1",
+        "name": "Patricia Tullert",
+        "listingsURL": "https://www.listingsURL.com",
+        "royaltySplit":"0.25%",
+        "phoneNumber":"614-246-1234"
+      },
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 20
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Condo"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2200
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2013
+        },
+        {
+            "trait_type": "Population",
+            "value": "8405837"
+          },
+          {
+            "trait_type": "Rank",
+            "value": "1"
+          },
+          {
+            "trait_type": "Growth_From_2012_to_2022",
+            "value": "4.8%"
+          }
+    ]
+}
