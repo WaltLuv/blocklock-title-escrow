@@ -1,10 +1,10 @@
 {
     "80001": {
         "realEstate": {
-            "address": "0x38eaA3A8eD6a7673c8028E1669d8d8a01837E141"
+            "address": "0x06c6BE2A11dE4B5d52cFcb102e1Ac728DBd66AdE"
         },
         "escrow": {
-            "address": "0xBc1b73083E2058DAb76Cf3F97590012ef7CeF57F"
+            "address": "0x3BBcE91C66E719cdb005b584A8E99f94E416A713"
         }
     }
 }
